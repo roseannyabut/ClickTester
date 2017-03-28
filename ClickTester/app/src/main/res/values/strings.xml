@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickTester</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Exit</string>
+</resources>
